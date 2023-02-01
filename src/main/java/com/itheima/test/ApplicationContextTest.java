@@ -19,6 +19,7 @@ public class ApplicationContextTest {
 //        InputStream in = Resources.getResourceAsStream("mybatis-config.xml");
 //        SqlSessionFactoryBuilder builder =new SqlSessionFactoryBuilder();
 //        SqlSessionFactory sqlSessionFactory = builder.build(in);
+        System.out.println("123123");
 
 
 
