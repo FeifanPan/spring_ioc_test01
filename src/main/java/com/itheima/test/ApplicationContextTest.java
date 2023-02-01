@@ -21,6 +21,8 @@ public class ApplicationContextTest {
 //        SqlSessionFactory sqlSessionFactory = builder.build(in);
         System.out.println("123123");
  System.out.println("123123");
+        System.out.println("123123");
+        System.out.println("123123");
 
 
 
